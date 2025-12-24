@@ -35,4 +35,4 @@ As a web developer, I build what the server sends and how the browser responds.
 ---
 # Author
   Pranathi Parimi
- - Self-taught Web   Developer  
+ |Self-taught Web   Developer  
