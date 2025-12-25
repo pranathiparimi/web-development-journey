@@ -151,4 +151,4 @@ And now, I’m learning how to build that magic.
 ### Author
 **Pranathi Parimi**  
 Aspiring Web Developer | Self Thought
-=======
+
