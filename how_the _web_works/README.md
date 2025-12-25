@@ -10,7 +10,7 @@ Let's understand **how the web works** in a simple, real-life way — using a st
 
 This is how *I* understand the web right now.
 
-<<<<<<< HEAD
+<<<
 ---
 
 ## The Web Explained Using an Uber Ride
