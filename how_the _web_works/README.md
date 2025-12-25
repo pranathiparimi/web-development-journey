@@ -152,29 +152,3 @@ And now, I’m learning how to build that magic.
 **Pranathi Parimi**  
 Aspiring Web Developer | Self Thought
 =======
- That’s how the web works.
-
- ## What’s Actually Happening
- - You click a link or button → a request
- - Browser/App sends the request
- - Internet carries it across the world
- - Server thinks and prepares a response
- - Browser shows the result on your screen
-
- ## What the Server Sends
- - HTML → structure
- - CSS → design
- - JavaScript → interaction
- - Your browser combines them and builds the website.
-
- ## Always Communicating
- Every click, scroll, or update sends new requests and receives new responses — silently and fast.(it's almost a loop)
-
-## Why This Matters:
-As a web developer, I build what the server sends and how the browser responds. 
-
-
----
-## Author
-Pranathi Parimi — Self-taught Web Developer
-  
